@@ -1,0 +1,4 @@
+1. Compile the code 
+javac -classpath /Users/vineetkurapati/Downloads/hadoop-3.4.0/share/hadoop/mapreduce/hadoop-mapreduce-client-core-3.4.0.jar InvertedIndex.java
+jar cvf InvertedIndex.jar *.class  
+

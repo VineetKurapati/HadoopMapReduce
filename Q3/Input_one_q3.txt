@@ -1,0 +1,2 @@
+Document 1: The sun is shining brightly in the sky.
+Document 2: Birds are chirping happily in the trees.

@@ -1,0 +1,2 @@
+Document 1: It's raining cats and dogs outside.
+Document 2: People are rushing to find shelter from the storm.

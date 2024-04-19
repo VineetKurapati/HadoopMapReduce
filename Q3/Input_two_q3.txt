@@ -1,0 +1,2 @@
+Document 1: Alice likes to read books and listen to music.
+Document 2: Bob enjoys playing sports and watching movies.
